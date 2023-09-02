@@ -50,8 +50,8 @@ All in one alarm, timer an stopwatch written in HTML, CSS and JS. Bootstrap icon
 
 ## Technologies
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * [Bootstrap 5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/) CSS framework
 * [Bootstrap Icons](https://icons.getbootstrap.com/)
